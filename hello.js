@@ -4,7 +4,20 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+let secretNumber = 15;
+
+console.log("this is a test");
+console.log("We need the parentheses");
+console.log('...as well as the quotation marks, although single quotes works');
+console.log("no semi-colon? no problem.")
+console.log("7");
+console.log("bonus:", 7 + 3)
+console.log("7" ,"3")
+console.log("Will we both fit?", "on one line?")
+console.log('"I sure hope so", said the developer')
+console.log(secretNumber)
+
+
 
 /*  
 Next, PLAY! 
